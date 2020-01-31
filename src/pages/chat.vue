@@ -1,6 +1,6 @@
 <template>
   <f7-page class="greenish">
-    <f7-navbar title="Contacts" back-link="Back"></f7-navbar>
+    <f7-navbar title="Chat" back-link="Back"></f7-navbar>
     <f7-block>
       <h1>Welcome to the NYSL chatpage</h1>
       <div id="firechat-wrapper" class="test">
